@@ -22,16 +22,16 @@
 <img src="https://skillicons.dev/icons?i=python,java,spring,django,js,ts,react,nodejs,aws,docker,postgres,git" alt="Skills" />
 </div>
 
-## GitHub Stats
+## Impact
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hemant10yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant10yadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant10yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<table>
+<tr>
+<td align="center" width="25%"><b>130+</b><br/><sub>countries running systems<br/>I help maintain at Dimagi</sub></td>
+<td align="center" width="25%"><b>1</b><br/><sub>Spring Boot backend serving<br/>web + Android + iOS at once</sub></td>
+<td align="center" width="25%"><b>4+ yrs</b><br/><sub>shipping production code<br/>across 2 companies</sub></td>
+<td align="center" width="25%"><b>10 yr</b><br/><sub>old Python codebase<br/>I actively ship features into</sub></td>
+</tr>
+</table>
 
 ## Featured Projects
 
