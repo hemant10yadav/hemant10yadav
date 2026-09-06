@@ -22,25 +22,6 @@
 <img src="https://skillicons.dev/icons?i=python,java,spring,django,js,ts,react,nodejs,aws,docker,postgres,git" alt="Skills" />
 </div>
 
-## Impact
-
-<table>
-<tr>
-<td align="center" width="25%"><b>130+</b><br/><sub>countries running systems<br/>I help maintain at Dimagi</sub></td>
-<td align="center" width="25%"><b>1</b><br/><sub>Spring Boot backend serving<br/>web + Android + iOS at once</sub></td>
-<td align="center" width="25%"><b>4+ yrs</b><br/><sub>shipping production code<br/>across 2 companies</sub></td>
-<td align="center" width="25%"><b>10 yr</b><br/><sub>old Python codebase<br/>I actively ship features into</sub></td>
-</tr>
-</table>
-
-## Featured Projects
-
-| Project | Description | Links |
-|---|---|---|
-| **E-Commerce Platform** | Full-stack e-commerce build | [Code](https://github.com/hemant10yadav/E-Commerce-website) |
-| **E-Store** | Node.js storefront | [Code](https://github.com/hemant10yadav/Sell2U-Node) |
-| **Book Store** | Store app with a live deployment | [Code](https://github.com/hemant10yadav/book-store) · [Demo](https://hemant10yadav.github.io/book-store/) |
-
 ---
 
 <div align="center">
