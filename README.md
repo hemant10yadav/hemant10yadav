@@ -1,25 +1,48 @@
-# Hemant Singh Yadav
+<div align="center">
 
-Software Engineer · 4+ years building backend systems, APIs, and full-stack products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hemant+Singh+Yadav;Software+Engineer+%40+Dimagi;I+ship+things+that+scale." alt="Typing SVG" />
 
-- 🔭 Currently building at **[Dimagi](https://dimagi.com/)** — maintaining Django/Python systems used by frontline health workers across 130+ countries.
-- 🛠 Previously at **Xcaliber Infotech** — built a single Spring Boot backend powering web, Android, and iOS clients simultaneously.
-- 🌱 Focused on scalable system architecture, containerized deployments (Docker/AWS), and clean backend design.
-- 📫 Reach me at **hemant.10.yadav@gmail.com**
-- 🌐 Portfolio: **[hemant10yadav.github.io](https://hemant10yadav.github.io)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-hemant10yadav.github.io-22d3ee?style=for-the-badge)](https://hemant10yadav.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemantyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemantyad)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20470646/hemant-singh-yadav)
+[![Email](https://img.shields.io/badge/Email-hemant.10.yadav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant.10.yadav@gmail.com)
+
+</div>
+
+## About
+
+- 🔭 Currently at **[Dimagi](https://dimagi.com/)** — maintaining Django/Python systems used by frontline health workers across 130+ countries
+- 🛠 Previously at **Xcaliber Infotech** — built one Spring Boot backend powering web, Android, and iOS clients simultaneously
+- 🌱 Focused on scalable system architecture, containerized deployments, and backend design that keeps working after I stop looking at it
+- 🧪 Side experiments live at **[/lab](https://hemant10yadav.github.io/lab)** on my portfolio — a live tech briefing dashboard and an interactive terminal
 
 ## Stack
 
-`Python` · `Java` · `Spring Boot` · `Django` · `JavaScript/TypeScript` · `React` · `Node.js` · `AWS` · `Docker`
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,spring,django,js,ts,react,nodejs,aws,docker,postgres,git" alt="Skills" />
+</div>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hemant10yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant10yadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant10yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## Featured Projects
 
-- **[E-Commerce Platform](https://github.com/hemant10yadav/E-Commerce-website)** — full-stack e-commerce build
-- **[E-Store](https://github.com/hemant10yadav/Sell2U-Node)** — Node.js storefront
-- **[Book Store](https://github.com/hemant10yadav/book-store)** — [live demo](https://hemant10yadav.github.io/book-store/)
+| Project | Description | Links |
+|---|---|---|
+| **E-Commerce Platform** | Full-stack e-commerce build | [Code](https://github.com/hemant10yadav/E-Commerce-website) |
+| **E-Store** | Node.js storefront | [Code](https://github.com/hemant10yadav/Sell2U-Node) |
+| **Book Store** | Store app with a live deployment | [Code](https://github.com/hemant10yadav/book-store) · [Demo](https://hemant10yadav.github.io/book-store/) |
 
-## Links
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hemant10yadav.github.io-22d3ee?style=flat-square)](https://hemant10yadav.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemantyad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemantyad)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-profile-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20470646/hemant-singh-yadav)
+<div align="center">
+<sub>Built with real experience, not buzzwords. Full story → <a href="https://hemant10yadav.github.io">hemant10yadav.github.io</a></sub>
+</div>
